@@ -1,0 +1,9 @@
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\bin\Debug\negocio.dll
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\bin\Debug\negocio.pdb
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\bin\Debug\dominio.dll
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\bin\Debug\dominio.pdb
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\obj\Debug\negocio.dll
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\negocio\obj\Debug\negocio.pdb

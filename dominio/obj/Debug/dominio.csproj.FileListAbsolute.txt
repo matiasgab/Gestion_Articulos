@@ -1,0 +1,6 @@
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\dominio\bin\Debug\dominio.dll
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\dominio\bin\Debug\dominio.pdb
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\dominio\obj\Debug\dominio.dll
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\TP_Final_Lico\TPFinalNivel2_Lico\dominio\obj\Debug\dominio.pdb
